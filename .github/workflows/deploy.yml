@@ -4,7 +4,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["main"] # or master, depending on your default branch
+    branches: ["main"] # or master, depending on your default branches
   workflow_dispatch:
 
 permissions:
