@@ -1,12 +1,23 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+### Instructor (University of Washington)
+
+-   **AMATH 351 A**: <a href='https://amath.washington.edu/courses/2025/spring/amath/351/a'>Introduction to Differential Equations and Applications</a>, *Spring 2025*
+-   **AMATH 352 B**: <a href='https://amath.washington.edu/courses/2025/winter/amath/352/b'>Applied Linear Algebra and Numerical Analysis</a>, *Winter 2025*
+-   **AMATH 351 A**: <a href='https://amath.washington.edu/courses/2024/spring/amath/351/a'>Introduction to Differential Equations and Applications</a>, *Spring 2024*
+
+### Teaching Assistant (Purdue University)
+
+-   **MA 265**: Linear Algebra
+-   **MA 266**: Ordinary Differential Equations
+-   **MA 261**: Multivariate Calculus
+-   **MA 162**: Calculus II
+-   **MA 161**: Calculus I
