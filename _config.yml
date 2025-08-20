@@ -277,11 +277,3 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 # Social media
 # -----------------------------------------------------------------------------
-
-social:
-  - icon: fab fa-github
-    link: https://github.com/shzhang3
-  - icon: ai ai-google-scholar-square
-    link: https://scholar.google.com/citations?user=hKh5DZcAAAAJ&hl=en
-  - icon: fas fa-globe # A generic globe icon for your UW homepage
-    link: https://amath.washington.edu/people/shiheng-zhang
