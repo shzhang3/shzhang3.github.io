@@ -25,7 +25,6 @@ latest_posts:
   enabled: false # disabled blog posts as requested
 ---
 
-I am currently a Postdoctoral Researcher in the Department of Applied Mathematics at the University of Washington, working with Prof. Jingwei Hu. I obtained my Ph.D. in Mathematics from Purdue University under the supervision of Prof. Jie Shen and my B.S. in Mathematics from Southern University of Science and Technology. 
+I am currently a Postdoctoral Researcher in the Department of Applied Mathematics at the University of Washington, working with Prof. Jingwei Hu. I obtained my Ph.D. in Mathematics from Purdue University under the supervision of Prof. Jie Shen and my B.S. in Mathematics from Southern University of Science and Technology.
 
 My research interests lie at the intersection of optimization, deep learning, dynamical low-rank approximation, and scientific computing.
-

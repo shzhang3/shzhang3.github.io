@@ -6,7 +6,6 @@ nav: true
 nav_order: 4
 ---
 
-
 ### Invited Minisymposium Talk
 
 - **Structure preserving schemes for a class of Wasserstein gradient flows**, SIAM Annual Meeting, Spokane, WA, July 2024.
