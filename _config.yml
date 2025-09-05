@@ -7,7 +7,7 @@ first_name: Shiheng
 middle_name:
 last_name: Zhang
 contact_note: >
-  GitHub--Work website--Google Scholar
+  <a href="https://shzhang3.github.io/">GitHub</a>--<a href="https://amath.washington.edu/people/shiheng-zhang">Work website</a>--<a href="https://scholar.google.com/citations?user=hKh5DZcAAAAJ&hl">Google Scholar</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I am a Postdoctoral Researcher in the Department of Applied Mathematics at the
   University of Washington, working with Prof. Jingwei Hu. I obtained my Ph.D.
