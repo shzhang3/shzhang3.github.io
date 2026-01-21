@@ -10,6 +10,7 @@ nav_order: 4
 
 - **Structure preserving schemes for a class of Wasserstein gradient flows**, SIAM Annual Meeting, Spokane, WA, July 2024.
 - **A Relaxed Vector Auxiliary Variable Algorithm for Unconstrained Optimization Problems**, SIAM Conference on Optimization, Seattle, WA, June 2023.
+- **Stability of Low-Rank Projector-Splitting Integrator for the Parabolic Equations**, CHaRMNET annual meeting, University of Washington, WA, December 2025.
 
 ### Posters
 
