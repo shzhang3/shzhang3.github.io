@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+
+website:
+  title: "Shiheng Zhang"
+  site-url: "https://shzhang3.github.io"
+  navbar:
+    pinned: true
+    background: "#f8fbf9"
+    foreground: "#162321"
+    search: false
+    right:
+      - text: "Research"
+        href: "#research"
+      - text: "Publications"
+        href: "#publications"
+      - text: "Talks"
+        href: "#talks"
+      - text: "Teaching"
+        href: "#teaching"
+      - text: "Contact"
+        href: "#contact"
+  page-footer:
+    border: false
+    left: "Shiheng Zhang"
+    right:
+      - text: "CV"
+        href: "files/Shiheng_Zhang_CV.pdf"
+      - text: "Google Scholar"
+        href: "https://scholar.google.com/citations?user=hKh5DZcAAAAJ&hl"
+      - text: "GitHub"
+        href: "https://github.com/shzhang3"
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    title-block: false
+    page-layout: full
+    link-external-newwindow: true
+    link-external-icon: false
