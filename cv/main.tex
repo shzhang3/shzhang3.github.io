@@ -1,0 +1,140 @@
+\documentclass[11pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage[
+  backend=biber,
+  maxnames=20,
+  style=nature,
+  sorting=ydnt,
+  defernumbers=true
+]{biblatex}
+\addbibresource{ref.bib}
+
+\usepackage{bookmark}
+\usepackage{enumitem}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{kpfonts}
+\usepackage{longtable}
+\usepackage{ragged2e}
+\usepackage{xcolor}
+
+\input{colors.tex}
+
+\hypersetup{
+  colorlinks=true,
+  breaklinks=true,
+  linkcolor=linkgreen,
+  urlcolor=linkgreen,
+  anchorcolor=linkgreen,
+  citecolor=linkgreen,
+  pdftitle={Shiheng Zhang CV},
+  pdfauthor={Shiheng Zhang},
+  bookmarksopen=true
+}
+
+\urlstyle{same}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.45em}
+\setlist[itemize]{leftmargin=1.4em, itemsep=0.15em, topsep=0.25em}
+
+\newcommand{\mytitle}[4]{
+  \begin{center}
+    {\Large\textbf{#1}}\\
+    \href{mailto:#2}{#2}\\
+    \href{https://#3}{#3}\\
+    #4
+  \end{center}
+}
+
+\begin{document}
+
+\mytitle
+  {Shiheng Zhang}
+  {shzhang3@uw.edu}
+  {shzhang3.github.io}
+  {Seattle, WA\\\href{https://scholar.google.com/citations?user=hKh5DZcAAAAJ&hl=en}{Google Scholar} \textbar{} \href{https://github.com/shzhang3}{GitHub}}
+
+\RaggedRight
+
+\pdfbookmark[1]{Research Interests}{interests}
+\section*{Research Interests}
+Numerical analysis, kinetic equations, dynamical low-rank approximation, structure-preserving computation, and scientific computing.
+
+\pdfbookmark[1]{Education}{education}
+\section*{Education}
+\input{education.tex}
+
+\pdfbookmark[1]{Research Experience}{exp-research}
+\section*{Research Experience}
+\input{exp_research.tex}
+
+\pdfbookmark[1]{Awards and Honors}{awards}
+\section*{Awards and Honors}
+\input{awards.tex}
+
+\pdfbookmark[1]{Publications}{publications}
+\section*{Publications}
+\small Full publication list: \href{https://scholar.google.com/citations?user=hKh5DZcAAAAJ&hl=en}{Google Scholar}
+\normalsize
+
+\nocite{*}
+
+\pdfbookmark[2]{Journal Articles}{journal-articles}
+\subsection*{Journal Articles}
+\newrefcontext[labelprefix=J]
+\printbibliography[
+  type=article,
+  heading=none,
+  resetnumbers=true,
+  keyword=J
+]
+
+\pdfbookmark[2]{Preprints}{preprints}
+\subsection*{Preprints}
+\newrefcontext[labelprefix=R]
+\printbibliography[
+  type=misc,
+  heading=none,
+  resetnumbers=true,
+  keyword=R
+]
+
+\pdfbookmark[1]{Talks and Posters}{presentations}
+\section*{Talks and Posters}
+
+\pdfbookmark[2]{Talks}{talks}
+\subsection*{Talks}
+\newrefcontext[labelprefix=T]
+\printbibliography[
+  type=misc,
+  heading=none,
+  resetnumbers=true,
+  keyword=T
+]
+
+\pdfbookmark[2]{Posters}{posters}
+\subsection*{Posters}
+\newrefcontext[labelprefix=P]
+\printbibliography[
+  type=misc,
+  heading=none,
+  resetnumbers=true,
+  keyword=P
+]
+
+\pdfbookmark[1]{Teaching}{teaching}
+\section*{Teaching}
+\input{teaching.tex}
+
+\pdfbookmark[1]{Technical Skills}{skills}
+\section*{Technical Skills}
+\input{skills.tex}
+
+\centering
+\rule{0.25\linewidth}{0.4pt}\\
+\medskip
+Last updated: \today
+
+\end{document}

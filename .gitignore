@@ -1,6 +1,7 @@
 _site/
 .quarto/
 .DS_Store
+cv/build/
 
 /.quarto/
 **/*.quarto_ipynb
