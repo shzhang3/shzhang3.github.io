@@ -286,10 +286,6 @@ h2 {
   color: #0f766e;
 }
 
-.pub-body-regular p:first-child {
-  font-weight: 400;
-}
-
 .contact-panel {
   padding: 30px;
   border: 1px solid rgba(22, 35, 33, 0.08);
