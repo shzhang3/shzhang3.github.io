@@ -130,6 +130,16 @@ Lukas Einkemmer, Jingwei Hu, and Shiheng Zhang · Journal of Computational Physi
 2025
 :::
 ::: {.pub-body}
+**[Low-Rank Adaptation of Evolutionary Deep Neural Networks for Efficient Learning of Time-Dependent PDEs](https://arxiv.org/abs/2509.16395)**  
+Jiahao Zhang, Shiheng Zhang, and Guang Lin · arXiv preprint
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
+2025
+:::
+::: {.pub-body}
 **[SAV-based entropy-dissipative schemes for a class of kinetic equations](http://math.purdue.edu/~shen7/pub/ZSH_SISC25.pdf)**  
 Shiheng Zhang, Jie Shen, and Jingwei Hu · SIAM Journal on Scientific Computing
 :::
