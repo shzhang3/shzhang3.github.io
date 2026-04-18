@@ -131,7 +131,7 @@ Lukas Einkemmer, Jingwei Hu, and Shiheng Zhang · Journal of Computational Physi
 :::
 ::: {.pub-body .pub-body-regular}
 [SAV-based entropy-dissipative schemes for a class of kinetic equations](http://math.purdue.edu/~shen7/pub/ZSH_SISC25.pdf)  
-Shiheng Zhang, Jie Shen, and Jingwei Hu · SIAM Journal on Scientific Computing
+**Shiheng Zhang, Jie Shen, and Jingwei Hu** · SIAM Journal on Scientific Computing
 :::
 :::
 
