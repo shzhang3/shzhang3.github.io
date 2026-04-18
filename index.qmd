@@ -109,9 +109,9 @@ Shiheng Zhang and Jingwei Hu · arXiv preprint
 ::: {.pub-year}
 2025
 :::
-::: {.pub-body .pub-body-regular}
-**SAV-based entropy-dissipative schemes for a class of kinetic equations**  
-Shiheng Zhang, Jie Shen, and Jingwei Hu · SIAM Journal on Scientific Computing
+::: {.pub-body}
+**[On the stability of the low-rank projector-splitting integrators for hyperbolic and parabolic equations](https://arxiv.org/abs/2507.15192)**  
+Shiheng Zhang, Lukas Einkemmer, and Jingwei Hu · arXiv preprint
 :::
 :::
 
@@ -122,6 +122,16 @@ Shiheng Zhang, Jie Shen, and Jingwei Hu · SIAM Journal on Scientific Computing
 ::: {.pub-body}
 **[Asymptotic-Preserving Dynamical Low-Rank Method for the Stiff Nonlinear Boltzmann Equation](https://www.sciencedirect.com/science/article/pii/S002199912500395X)**  
 Lukas Einkemmer, Jingwei Hu, and Shiheng Zhang · Journal of Computational Physics
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
+2025
+:::
+::: {.pub-body .pub-body-regular}
+[SAV-based entropy-dissipative schemes for a class of kinetic equations](http://math.purdue.edu/~shen7/pub/ZSH_SISC25.pdf)  
+Shiheng Zhang, Jie Shen, and Jingwei Hu · SIAM Journal on Scientific Computing
 :::
 :::
 
