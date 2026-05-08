@@ -210,6 +210,7 @@ Jiahao Zhang, Shiheng Zhang, Jie Shen, and Guang Lin · Journal of Computational
 ::: {.stack-block}
 ### Instructor
 
+- **AMATH 351 A** · Introduction to Differential Equations and Applications · Spring 2026 · [Section 3.4 PDF](files/Section_3_4.pdf)
 - **AMATH 351 A** · Introduction to Differential Equations and Applications · Spring 2025
 - **AMATH 352 B** · Applied Linear Algebra and Numerical Analysis · Winter 2025
 - **AMATH 351 A** · Introduction to Differential Equations and Applications · Spring 2024
