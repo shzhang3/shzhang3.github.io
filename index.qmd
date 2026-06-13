@@ -100,8 +100,8 @@ Boeing Research Award, 2025
 2026
 :::
 ::: {.pub-body}
-**[A Separable and Asymptotic-Preserving Dynamical Low-Rank Method for the Vlasov--Poisson--Fokker--Planck System](https://arxiv.org/abs/2601.11900)**  
-Shiheng Zhang and Jingwei Hu · arXiv preprint
+**[A separable and asymptotic-preserving dynamical low-rank method for the Vlasov--Poisson--Fokker--Planck System](https://doi.org/10.1051/m2an/2026047)**  
+Shiheng Zhang and Jingwei Hu · ESAIM: M2AN, forthcoming article · [PDF](https://www.esaim-m2an.org/articles/m2an/pdf/forth/m2an260029.pdf)
 :::
 :::
 
