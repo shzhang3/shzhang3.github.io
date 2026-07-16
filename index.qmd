@@ -88,37 +88,6 @@ Boeing Research Award, 2025
 :::
 :::
 
-## Featured Project {#projects}
-
-::: {.section-shell .section-alt}
-::: {.content-shell}
-::: {.project-feature}
-::: {.project-media}
-[![](assets/guidance-stability-lab-preview.jpg){.project-preview fig-alt="Guidance Stability Lab comparing vanilla CFG, fitted CFG, and terminal guidance shutdown on matched Stable Diffusion samples"}](https://shzhang3.github.io/guidance-stability-lab/)
-:::
-
-::: {.project-copy}
-<p class="project-kicker">Research engineering portfolio · 2026</p>
-
-### Guidance Stability Lab
-
-<p class="project-summary">An interactive matched-seed laboratory that turns a numerical-analysis result for classifier-free guidance into inspectable software. It combines exact denoising traces, clipping diagnostics, and audited CIFAR-10 and Stable Diffusion evidence.</p>
-
-::: {.project-evidence}
-<div><strong>1 coefficient</strong><span>changed in the sampler</span></div>
-<div><strong>Same NFE</strong><span>prompt, seed, and network fixed</span></div>
-<div><strong>Audited</strong><span>data contracts and browser tests</span></div>
-:::
-
-::: {.project-actions}
-[Open interactive lab](https://shzhang3.github.io/guidance-stability-lab/){.action-button .action-primary}
-[View source](https://github.com/shzhang3/guidance-stability-lab){.action-button .action-secondary}
-:::
-:::
-:::
-:::
-:::
-
 ## Selected Publications {#publications}
 
 ::: {.section-shell .section-alt}
