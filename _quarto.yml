@@ -17,6 +17,8 @@ website:
     right:
       - text: "Research"
         href: "#research"
+      - text: "Project"
+        href: "#projects"
       - text: "Publications"
         href: "#publications"
       - text: "Talks"
