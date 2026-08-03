@@ -107,6 +107,16 @@ Shiheng Zhang and Jingwei Hu · ESAIM: M2AN
 
 ::: {.publication-item}
 ::: {.pub-year}
+2026
+:::
+::: {.pub-body}
+**[Scalar-Tracking SAV Schemes with Pullback Corrections for Gradient Flows](https://arxiv.org/abs/2606.18551)**\
+Shiheng Zhang and Jie Shen · arXiv preprint
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
 2025
 :::
 ::: {.pub-body}
