@@ -110,6 +110,16 @@ Shiheng Zhang and Jingwei Hu · ESAIM: M2AN
 2026
 :::
 ::: {.pub-body}
+**[Robust Projector-Splitting Runge-Kutta Integrators of Orders Two and Three](https://arxiv.org/abs/2608.17157)**\
+Shiheng Zhang · arXiv preprint
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
+2026
+:::
+::: {.pub-body}
 **[A Counterexample to Robust Second-Order Convergence of the Strang Projector-Splitting Integrator](https://arxiv.org/abs/2608.12893)**\
 Shiheng Zhang · arXiv preprint
 :::
