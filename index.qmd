@@ -5,25 +5,26 @@ title: "Shiheng Zhang"
 ::: {#top .hero-wrap}
 ::: {.content-shell .hero-grid}
 ::: {.hero-copy}
-<p class="eyebrow">Applied Mathematics • Numerical Analysis • Scientific Computing</p>
+<p class="eyebrow">Reliable low-rank computation for multiscale PDEs</p>
 
 # Shiheng Zhang
 
-<p class="hero-role">Postdoctoral Researcher, Department of Applied Mathematics, University of Washington</p>
+<p class="hero-role">Pearson Fellow and Acting Instructor, Department of Applied Mathematics, University of Washington</p>
 
-<p class="hero-summary">I work on numerical analysis, kinetic equations, and dynamical low-rank approximation, with an emphasis on structure-preserving algorithms for scientific computing.</p>
+<p class="hero-summary">I develop reliable low-rank numerical methods for multiscale PDEs, combining geometric time integration, asymptotic-preserving discretization, and structure-preserving analysis so reduced models remain stable and accurate in stiff or nearly rank-deficient regimes.</p>
 
 ::: {.hero-tags}
-`Numerical analysis`
-`Kinetic equations`
 `Dynamical low-rank approximation`
-`Scientific computing`
+`Multiscale PDEs`
+`Kinetic equations`
+`Structure-preserving methods`
 :::
 
 ::: {.hero-actions}
 [Download CV](files/Shiheng_Zhang_CV.pdf){.action-button .action-primary}
 [Google Scholar](https://scholar.google.com/citations?user=hKh5DZcAAAAJ&hl){.action-button .action-secondary}
 [Selected papers](#publications){.action-button .action-secondary}
+[Research software](#software){.action-button .action-secondary}
 :::
 
 ::: {.detail-grid}
@@ -33,8 +34,8 @@ title: "Shiheng Zhang"
 :::
 
 ::: {.detail-item}
-**Current affiliation**  
-[University of Washington](https://amath.washington.edu/people/shiheng-zhang)
+**Current appointment**\
+Pearson Fellow and Acting Instructor, [University of Washington](https://amath.washington.edu/people/shiheng-zhang)
 :::
 
 ::: {.detail-item}
@@ -44,7 +45,7 @@ Boeing Research Award, 2025
 
 ::: {.detail-item}
 **Links**  
-[UW profile](https://amath.washington.edu/people/shiheng-zhang) · [GitHub](https://github.com/shzhang3)
+[UW profile](https://amath.washington.edu/people/shiheng-zhang) · [GitHub](https://github.com/shzhang3) · [LinkedIn](https://www.linkedin.com/in/shihengzhang/)
 :::
 :::
 :::
@@ -63,9 +64,9 @@ Boeing Research Award, 2025
 ::: {.stack-block}
 ### Current Focus
 
-- Structure-preserving schemes for kinetic equations and Wasserstein gradient flows
-- Dynamical low-rank methods for stiff and multiscale PDEs
-- Reliable numerical algorithms with strong stability and asymptotic properties
+- Robust high-order dynamical low-rank integration near rank deficiency
+- Structure-preserving and asymptotic-preserving solvers for kinetic equations
+- Reliable reduced models and scientific machine learning
 :::
 
 ::: {.stack-block}
@@ -73,7 +74,7 @@ Boeing Research Award, 2025
 
 <div class="timeline-item">
   <p class="timeline-year">2024–present</p>
-  <p class="timeline-text">Postdoctoral Researcher in Applied Mathematics at the University of Washington, working with <a href="https://jingweihu-math.github.io/webpage/">Jingwei Hu</a>.</p>
+  <p class="timeline-text">Pearson Fellow and Acting Instructor in Applied Mathematics at the University of Washington, working with <a href="https://jingweihu-math.github.io/webpage/">Jingwei Hu</a>.</p>
 </div>
 <div class="timeline-item">
   <p class="timeline-year">2023</p>
@@ -100,8 +101,8 @@ Boeing Research Award, 2025
 2026
 :::
 ::: {.pub-body}
-**[A separable and asymptotic-preserving dynamical low-rank method for the Vlasov--Poisson--Fokker--Planck System](https://doi.org/10.1051/m2an/2026047)**  
-Shiheng Zhang and Jingwei Hu · ESAIM: M2AN
+**[Robust Projector-Splitting Runge-Kutta Integrators of Orders Two and Three](https://arxiv.org/abs/2608.17157)**\
+Shiheng Zhang · arXiv preprint
 :::
 :::
 
@@ -110,8 +111,8 @@ Shiheng Zhang and Jingwei Hu · ESAIM: M2AN
 2026
 :::
 ::: {.pub-body}
-**[Robust Projector-Splitting Runge-Kutta Integrators of Orders Two and Three](https://arxiv.org/abs/2608.17157)**\
-Shiheng Zhang · arXiv preprint
+**[A separable and asymptotic-preserving dynamical low-rank method for the Vlasov--Poisson--Fokker--Planck System](https://doi.org/10.1051/m2an/2026047)**\
+Shiheng Zhang and Jingwei Hu · ESAIM: M2AN
 :::
 :::
 
@@ -208,6 +209,46 @@ Jiahao Zhang, Shiheng Zhang, Jie Shen, and Guang Lin · Journal of Computational
 :::
 :::
 
+## Research Software {#software}
+
+::: {.section-shell}
+::: {.content-shell}
+<p class="section-intro">Open implementations and reproducible experiments accompanying my work in dynamical low-rank approximation, kinetic equations, and structure-preserving optimization.</p>
+
+::: {.software-grid}
+::: {.software-item}
+### DLRA
+
+A modular Python solver for full and dynamical low-rank simulations of the stiff nonlinear Boltzmann equation, with a command-line interface, tests, and reproducible examples.
+
+::: {.software-links}
+[GitHub](https://github.com/shzhang3/DLRA) · [Paper](https://www.sciencedirect.com/science/article/pii/S002199912500395X)
+:::
+:::
+
+::: {.software-item}
+### DLR-VPFP
+
+JAX implementations, experiment configurations, and figure-generation scripts for the separable asymptotic-preserving VPFP method.
+
+::: {.software-links}
+[GitHub](https://github.com/shzhang3/DLR-VPFP) · [Paper](https://doi.org/10.1051/m2an/2026047)
+:::
+:::
+
+::: {.software-item}
+### RVAV
+
+A PyTorch implementation of the relaxed vector auxiliary variable optimizer, with a drop-in optimizer API, tests, continuous integration, and a quick start.
+
+::: {.software-links}
+[GitHub](https://github.com/shzhang3/RVAV) · [Paper](https://epubs.siam.org/doi/10.1137/23M1611087)
+:::
+:::
+:::
+:::
+:::
+
 ## Talks {#talks}
 
 ::: {.section-shell}
@@ -267,12 +308,13 @@ Jiahao Zhang, Shiheng Zhang, Jie Shen, and Guang Lin · Journal of Computational
 ::: {.contact-panel}
 ### Get in Touch
 
-I am always happy to hear from people working in numerical analysis, kinetic equations, structure-preserving computation, and low-rank methods.
+I welcome conversations about dynamical low-rank approximation, multiscale kinetic equations, structure-preserving computation, and research software.
 
 ::: {.contact-links}
 [Email](mailto:shzhang3@uw.edu){.action-button .action-primary}
 [UW Profile](https://amath.washington.edu/people/shiheng-zhang){.action-button .action-secondary}
 [GitHub](https://github.com/shzhang3){.action-button .action-secondary}
+[LinkedIn](https://www.linkedin.com/in/shihengzhang/){.action-button .action-secondary}
 :::
 :::
 :::

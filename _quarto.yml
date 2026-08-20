@@ -19,10 +19,12 @@ website:
         href: "#research"
       - text: "Publications"
         href: "#publications"
-      - text: "Talks"
-        href: "#talks"
+      - text: "Software"
+        href: "#software"
       - text: "Teaching"
         href: "#teaching"
+      - text: "Talks"
+        href: "#talks"
       - text: "Contact"
         href: "#contact"
   page-footer:
@@ -35,6 +37,8 @@ website:
         href: "https://scholar.google.com/citations?user=hKh5DZcAAAAJ&hl"
       - text: "GitHub"
         href: "https://github.com/shzhang3"
+      - text: "LinkedIn"
+        href: "https://www.linkedin.com/in/shihengzhang/"
 
 format:
   html:
