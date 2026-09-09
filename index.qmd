@@ -101,8 +101,8 @@ Boeing Research Award, 2025
 2026
 :::
 ::: {.pub-body}
-**[Robust Projector-Splitting Runge-Kutta Integrators of Orders Two and Three](https://arxiv.org/abs/2608.17157)**\
-Shiheng Zhang · arXiv preprint
+**[Robust High-Order Projector-Splitting Integrators](https://arxiv.org/abs/2608.17157)**\
+Shiheng Zhang and Jingwei Hu · arXiv preprint
 :::
 :::
 
