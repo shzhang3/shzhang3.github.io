@@ -89,11 +89,87 @@ Boeing Research Award, 2025
 :::
 :::
 
-## Selected Publications {#publications}
+## Selected Work {#publications}
 
 ::: {.section-shell .section-alt}
 ::: {.content-shell}
 <p class="section-intro">A few recent papers most representative of my current research directions. For the full list, see <a href="https://scholar.google.com/citations?user=hKh5DZcAAAAJ&hl">Google Scholar</a>.</p>
+
+### Publications {.publication-group-title}
+
+::: {.publication-list}
+::: {.publication-item}
+::: {.pub-year}
+2026
+:::
+::: {.pub-body}
+**[A separable and asymptotic-preserving dynamical low-rank method for the Vlasov--Poisson--Fokker--Planck System](https://doi.org/10.1051/m2an/2026047)**\
+Shiheng Zhang and Jingwei Hu · ESAIM: M2AN
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
+2026
+:::
+::: {.pub-body}
+**[On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations](https://rdcu.be/z4s5J1hDyoXa)**\
+Shiheng Zhang and Jingwei Hu · Journal of Scientific Computing
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
+2025
+:::
+::: {.pub-body}
+**[Asymptotic-Preserving Dynamical Low-Rank Method for the Stiff Nonlinear Boltzmann Equation](https://www.sciencedirect.com/science/article/pii/S002199912500395X)**\
+Lukas Einkemmer, Jingwei Hu, and Shiheng Zhang · Journal of Computational Physics
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
+2025
+:::
+::: {.pub-body}
+**[SAV-based entropy-dissipative schemes for a class of kinetic equations](http://math.purdue.edu/~shen7/pub/ZSH_SISC25.pdf)**\
+Shiheng Zhang, Jie Shen, and Jingwei Hu · SIAM Journal on Scientific Computing
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
+2025
+:::
+::: {.pub-body}
+**[Structure preserving schemes for a class of Wasserstein gradient flows](https://link.springer.com/article/10.1007/s42967-025-00486-2)**\
+Shiheng Zhang and Jie Shen · Communications on Applied Mathematics and Computation
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
+2025
+:::
+::: {.pub-body}
+**[A Relaxed Vector Auxiliary Variable Algorithm for Unconstrained Optimization Problems](https://epubs.siam.org/doi/10.1137/23M1611087)**\
+Shiheng Zhang, Jiahao Zhang, Jie Shen, and Guang Lin · SIAM Journal on Scientific Computing
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
+2024
+:::
+::: {.pub-body}
+**[Energy-dissipative evolutionary deep operator neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0021999123007337)**\
+Jiahao Zhang, Shiheng Zhang, Jie Shen, and Guang Lin · Journal of Computational Physics
+:::
+:::
+:::
+
+### Preprints {.publication-group-title}
 
 ::: {.publication-list}
 ::: {.publication-item}
@@ -103,16 +179,6 @@ Boeing Research Award, 2025
 ::: {.pub-body}
 **[Robust High-Order Projector-Splitting Integrators](https://arxiv.org/abs/2608.17157)**\
 Shiheng Zhang and Jingwei Hu · arXiv preprint
-:::
-:::
-
-::: {.publication-item}
-::: {.pub-year}
-2026
-:::
-::: {.pub-body}
-**[A separable and asymptotic-preserving dynamical low-rank method for the Vlasov--Poisson--Fokker--Planck System](https://doi.org/10.1051/m2an/2026047)**\
-Shiheng Zhang and Jingwei Hu · ESAIM: M2AN
 :::
 :::
 
@@ -138,71 +204,11 @@ Shiheng Zhang and Jie Shen · arXiv preprint
 
 ::: {.publication-item}
 ::: {.pub-year}
-2026
-:::
-::: {.pub-body}
-**[On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations](https://rdcu.be/z4s5J1hDyoXa)**\
-Shiheng Zhang and Jingwei Hu · Journal of Scientific Computing
-:::
-:::
-
-::: {.publication-item}
-::: {.pub-year}
 2025
 :::
 ::: {.pub-body}
-**[Asymptotic-Preserving Dynamical Low-Rank Method for the Stiff Nonlinear Boltzmann Equation](https://www.sciencedirect.com/science/article/pii/S002199912500395X)**  
-Lukas Einkemmer, Jingwei Hu, and Shiheng Zhang · Journal of Computational Physics
-:::
-:::
-
-::: {.publication-item}
-::: {.pub-year}
-2025
-:::
-::: {.pub-body}
-**[Low-Rank Adaptation of Evolutionary Deep Neural Networks for Efficient Learning of Time-Dependent PDEs](https://arxiv.org/abs/2509.16395)**  
+**[Low-Rank Adaptation of Evolutionary Deep Neural Networks for Efficient Learning of Time-Dependent PDEs](https://arxiv.org/abs/2509.16395)**\
 Jiahao Zhang, Shiheng Zhang, and Guang Lin · arXiv preprint
-:::
-:::
-
-::: {.publication-item}
-::: {.pub-year}
-2025
-:::
-::: {.pub-body}
-**[SAV-based entropy-dissipative schemes for a class of kinetic equations](http://math.purdue.edu/~shen7/pub/ZSH_SISC25.pdf)**  
-Shiheng Zhang, Jie Shen, and Jingwei Hu · SIAM Journal on Scientific Computing
-:::
-:::
-
-::: {.publication-item}
-::: {.pub-year}
-2025
-:::
-::: {.pub-body}
-**[Structure preserving schemes for a class of Wasserstein gradient flows](https://link.springer.com/article/10.1007/s42967-025-00486-2)**  
-Shiheng Zhang and Jie Shen · Communications on Applied Mathematics and Computation
-:::
-:::
-
-::: {.publication-item}
-::: {.pub-year}
-2025
-:::
-::: {.pub-body}
-**[A Relaxed Vector Auxiliary Variable Algorithm for Unconstrained Optimization Problems](https://epubs.siam.org/doi/10.1137/23M1611087)**  
-Shiheng Zhang, Jiahao Zhang, Jie Shen, and Guang Lin · SIAM Journal on Scientific Computing
-:::
-:::
-
-::: {.publication-item}
-::: {.pub-year}
-2024
-:::
-::: {.pub-body}
-**[Energy-dissipative evolutionary deep operator neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0021999123007337)**  
-Jiahao Zhang, Shiheng Zhang, Jie Shen, and Guang Lin · Journal of Computational Physics
 :::
 :::
 :::
