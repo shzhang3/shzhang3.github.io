@@ -141,8 +141,8 @@ Shiheng Zhang and Jie Shen · arXiv preprint
 2026
 :::
 ::: {.pub-body}
-**[On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations](https://arxiv.org/abs/2507.15192)**\
-Shiheng Zhang and Jingwei Hu · Journal of Scientific Computing · Accepted
+**[On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations](https://rdcu.be/z4s5J1hDyoXa)**\
+Shiheng Zhang and Jingwei Hu · Journal of Scientific Computing
 :::
 :::
 
