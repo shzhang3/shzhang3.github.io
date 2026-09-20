@@ -197,7 +197,7 @@ Shiheng Zhang · arXiv preprint
 2026
 :::
 ::: {.pub-body}
-**[Scalar-Tracking SAV Schemes with Pullback Corrections for Gradient Flows](https://arxiv.org/abs/2606.18551)**\
+**[SAV Schemes with Decomposition-Induced Pullback Corrections for Gradient Flows](https://arxiv.org/abs/2606.18551)**\
 Shiheng Zhang and Jie Shen · arXiv preprint
 :::
 :::
