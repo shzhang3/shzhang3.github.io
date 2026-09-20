@@ -103,8 +103,8 @@ Boeing Research Award, 2025
 2026
 :::
 ::: {.pub-body}
-**[A separable and asymptotic-preserving dynamical low-rank method for the Vlasov--Poisson--Fokker--Planck System](https://doi.org/10.1051/m2an/2026047)**\
-Shiheng Zhang and Jingwei Hu · ESAIM: M2AN
+**[On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations](https://link.springer.com/article/10.1007/s10915-026-03464-9)**\
+Shiheng Zhang and Jingwei Hu · Journal of Scientific Computing
 :::
 :::
 
@@ -113,18 +113,8 @@ Shiheng Zhang and Jingwei Hu · ESAIM: M2AN
 2026
 :::
 ::: {.pub-body}
-**[On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations](https://link.springer.com/article/10.1007/s10915-026-03464-9)**\
-Shiheng Zhang and Jingwei Hu · Journal of Scientific Computing
-:::
-:::
-
-::: {.publication-item}
-::: {.pub-year}
-2025
-:::
-::: {.pub-body}
-**[Asymptotic-Preserving Dynamical Low-Rank Method for the Stiff Nonlinear Boltzmann Equation](https://www.sciencedirect.com/science/article/pii/S002199912500395X)**\
-Lukas Einkemmer, Jingwei Hu, and Shiheng Zhang · Journal of Computational Physics
+**[A separable and asymptotic-preserving dynamical low-rank method for the Vlasov--Poisson--Fokker--Planck System](https://doi.org/10.1051/m2an/2026047)**\
+Shiheng Zhang and Jingwei Hu · ESAIM: M2AN
 :::
 :::
 
@@ -135,6 +125,16 @@ Lukas Einkemmer, Jingwei Hu, and Shiheng Zhang · Journal of Computational Physi
 ::: {.pub-body}
 **[SAV-based entropy-dissipative schemes for a class of kinetic equations](http://math.purdue.edu/~shen7/pub/ZSH_SISC25.pdf)**\
 Shiheng Zhang, Jie Shen, and Jingwei Hu · SIAM Journal on Scientific Computing
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
+2025
+:::
+::: {.pub-body}
+**[Asymptotic-Preserving Dynamical Low-Rank Method for the Stiff Nonlinear Boltzmann Equation](https://www.sciencedirect.com/science/article/pii/S002199912500395X)**\
+Lukas Einkemmer, Jingwei Hu, and Shiheng Zhang · Journal of Computational Physics
 :::
 :::
 
