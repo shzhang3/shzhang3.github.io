@@ -103,6 +103,16 @@ Boeing Research Award, 2025
 2026
 :::
 ::: {.pub-body}
+**[Ordinal Geometry Complements Reconstruction: Diagnosing Planning with Compressed Value Functions](https://openreview.net/forum?id=QbTBLTxehl)**\
+Shiheng Zhang · NeurIPS 2026 · Poster
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
+2026
+:::
+::: {.pub-body}
 **[On the stability of the low-rank projector-splitting integrator for hyperbolic and parabolic equations](https://link.springer.com/article/10.1007/s10915-026-03464-9)**\
 Shiheng Zhang and Jingwei Hu · Journal of Scientific Computing
 :::
