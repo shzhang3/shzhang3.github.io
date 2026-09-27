@@ -348,6 +348,8 @@ A PyTorch implementation of the relaxed vector auxiliary variable optimizer, wit
 
 ::: {.section-shell .section-alt}
 ::: {.content-shell}
+<p class="section-intro"><strong>AMATH 351 · Autumn 2026:</strong> Explore <a href="https://shzhang3.github.io/amath351-lab/">AMATH 351 Lab</a>, an interactive course project. The first experiment connects direction fields, initial conditions, and solution curves. <a href="https://github.com/shzhang3/amath351-lab">Source on GitHub</a>.</p>
+
 ::: {.split-grid}
 ::: {.stack-block}
 ### Instructor
