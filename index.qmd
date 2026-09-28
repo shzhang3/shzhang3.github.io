@@ -103,7 +103,7 @@ Boeing Research Award, 2025
 2026
 :::
 ::: {.pub-body}
-**[Ordinal Geometry Complements Reconstruction: Diagnosing Planning with Compressed Value Functions](https://openreview.net/forum?id=QbTBLTxehl)**
+**[Ordinal geometry complements reconstruction: diagnosing planning with compressed value functions](https://openreview.net/forum?id=QbTBLTxehl)**
 
 **Shiheng Zhang** · Advances in Neural Information Processing Systems (NeurIPS 2026)
 :::
@@ -125,7 +125,7 @@ Boeing Research Award, 2025
 2026
 :::
 ::: {.pub-body}
-**[A separable and asymptotic-preserving dynamical low-rank method for the Vlasov--Poisson--Fokker--Planck System](https://doi.org/10.1051/m2an/2026047)**
+**[A separable and asymptotic-preserving dynamical low-rank method for the Vlasov--Poisson--Fokker--Planck system](https://doi.org/10.1051/m2an/2026047)**
 
 **Shiheng Zhang** and Jingwei Hu · ESAIM: M2AN
 :::
@@ -147,7 +147,7 @@ Boeing Research Award, 2025
 2025
 :::
 ::: {.pub-body}
-**[Asymptotic-Preserving Dynamical Low-Rank Method for the Stiff Nonlinear Boltzmann Equation](https://www.sciencedirect.com/science/article/pii/S002199912500395X)**
+**[Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation](https://www.sciencedirect.com/science/article/pii/S002199912500395X)**
 
 Lukas Einkemmer, Jingwei Hu, and **Shiheng Zhang** · Journal of Computational Physics
 :::
@@ -169,7 +169,7 @@ Lukas Einkemmer, Jingwei Hu, and **Shiheng Zhang** · Journal of Computational P
 2025
 :::
 ::: {.pub-body}
-**[A Relaxed Vector Auxiliary Variable Algorithm for Unconstrained Optimization Problems](https://epubs.siam.org/doi/10.1137/23M1611087)**
+**[A relaxed vector auxiliary variable algorithm for unconstrained optimization problems](https://epubs.siam.org/doi/10.1137/23M1611087)**
 
 **Shiheng Zhang**<sup>&#42;</sup>, Jiahao Zhang<sup>&#42;</sup>, Jie Shen, and Guang Lin · SIAM Journal on Scientific Computing
 
@@ -199,7 +199,7 @@ Jiahao Zhang<sup>&#42;</sup>, **Shiheng Zhang**<sup>&#42;</sup>, Jie Shen, and G
 2026
 :::
 ::: {.pub-body}
-**[Robust High-Order Projector-Splitting Integrators](https://arxiv.org/abs/2608.17157)**
+**[Robust high-order projector-splitting integrators](https://arxiv.org/abs/2608.17157)**
 
 **Shiheng Zhang** and Jingwei Hu · arXiv preprint
 :::
@@ -210,7 +210,7 @@ Jiahao Zhang<sup>&#42;</sup>, **Shiheng Zhang**<sup>&#42;</sup>, Jie Shen, and G
 2026
 :::
 ::: {.pub-body}
-**[A Counterexample to Robust Second-Order Convergence of the Strang Projector-Splitting Integrator](https://arxiv.org/abs/2608.12893)**
+**[A counterexample to robust second-order convergence of the Strang projector-splitting integrator](https://arxiv.org/abs/2608.12893)**
 
 **Shiheng Zhang** · arXiv preprint · Submitted
 :::
@@ -221,7 +221,7 @@ Jiahao Zhang<sup>&#42;</sup>, **Shiheng Zhang**<sup>&#42;</sup>, Jie Shen, and G
 2026
 :::
 ::: {.pub-body}
-**[Guidance Breaks the Fitted Operator: A Terminal-Fitted Repair for Classifier-Free Guidance](https://arxiv.org/abs/2607.07665)**
+**[Guidance breaks the fitted operator: a terminal-fitted repair for classifier-free guidance](https://arxiv.org/abs/2607.07665)**
 
 **Shiheng Zhang** · arXiv preprint · Submitted
 :::
@@ -232,7 +232,7 @@ Jiahao Zhang<sup>&#42;</sup>, **Shiheng Zhang**<sup>&#42;</sup>, Jie Shen, and G
 2026
 :::
 ::: {.pub-body}
-**[Asymptotic Preservation and Uniform Accuracy of Diffusion and Flow-Matching Samplers](https://arxiv.org/abs/2607.04113)**
+**[Asymptotic preservation and uniform accuracy of diffusion and flow-matching samplers](https://arxiv.org/abs/2607.04113)**
 
 **Shiheng Zhang** · arXiv preprint
 :::
@@ -243,7 +243,7 @@ Jiahao Zhang<sup>&#42;</sup>, **Shiheng Zhang**<sup>&#42;</sup>, Jie Shen, and G
 2026
 :::
 ::: {.pub-body}
-**[SAV Schemes with Decomposition-Induced Pullback Corrections for Gradient Flows](https://arxiv.org/abs/2606.18551)**
+**[SAV schemes with decomposition-induced pullback corrections for gradient flows](https://arxiv.org/abs/2606.18551)**
 
 **Shiheng Zhang** and Jie Shen · arXiv preprint · Submitted
 :::
@@ -254,7 +254,7 @@ Jiahao Zhang<sup>&#42;</sup>, **Shiheng Zhang**<sup>&#42;</sup>, Jie Shen, and G
 2026
 :::
 ::: {.pub-body}
-**[Planner-Admissible Graph-PDE Value Extensions for Sparse Goal-Conditioned Planning](https://arxiv.org/abs/2605.19185)**
+**[Planner-admissible graph-PDE value extensions for sparse goal-conditioned planning](https://arxiv.org/abs/2605.19185)**
 
 **Shiheng Zhang** · arXiv preprint · Submitted
 :::
@@ -265,7 +265,7 @@ Jiahao Zhang<sup>&#42;</sup>, **Shiheng Zhang**<sup>&#42;</sup>, Jie Shen, and G
 2025
 :::
 ::: {.pub-body}
-**[Low-Rank Adaptation of Evolutionary Deep Neural Networks for Efficient Learning of Time-Dependent PDEs](https://arxiv.org/abs/2509.16395)**
+**[Low-rank adaptation of evolutionary deep neural networks for efficient learning of time-dependent PDEs](https://arxiv.org/abs/2509.16395)**
 
 Jiahao Zhang, **Shiheng Zhang**, and Guang Lin · arXiv preprint · Submitted
 :::
@@ -322,18 +322,18 @@ A PyTorch implementation of the relaxed vector auxiliary variable optimizer, wit
 ::: {.stack-block}
 ### Selected Talks
 
-- **Robust Projector-Splitting Runge-Kutta Integrators of Orders Two and Three**, SIAM Conference on Computational Science and Engineering (CSE27), Pittsburgh, February 2027 (upcoming)
+- **Robust projector-splitting Runge-Kutta integrators of orders two and three**, SIAM Conference on Computational Science and Engineering (CSE27), Pittsburgh, February 2027 (upcoming)
 - **On the stability of the low-rank projector-splitting integrator for parabolic equations**, CHaRMNET Annual Meeting, University of Washington, December 2025
 - **Structure preserving schemes for a class of Wasserstein gradient flows**, SIAM Annual Meeting, Spokane, July 2024
-- **A Relaxed Vector Auxiliary Variable Algorithm for Unconstrained Optimization Problems**, SIAM Conference on Optimization, Seattle, June 2023
+- **A relaxed vector auxiliary variable algorithm for unconstrained optimization problems**, SIAM Conference on Optimization, Seattle, June 2023
 :::
 
 ::: {.stack-block}
 ### Selected Posters
 
-- **A Separable and Asymptotic-Preserving Dynamical Low-Rank Method for the Vlasov--Poisson--Fokker--Planck System**, IPAM, UCLA, Los Angeles, March 2026
+- **A separable and asymptotic-preserving dynamical low-rank method for the Vlasov--Poisson--Fokker--Planck system**, IPAM, UCLA, Los Angeles, March 2026
 - **SAV-based entropy-dissipative schemes for a class of kinetic equations**, ICERM, Providence, July 2025
-- **Asymptotic-Preserving Dynamical Low-Rank Method for the Stiff Nonlinear Boltzmann Equation**, CHaRMNET Annual Meeting, Virginia Tech, December 2024
+- **Asymptotic-preserving dynamical low-rank method for the stiff nonlinear Boltzmann equation**, CHaRMNET Annual Meeting, Virginia Tech, December 2024
 - **SAV-based entropy-dissipative schemes for a class of kinetic equations**, NSF Computational Mathematics PI Meeting, University of Washington, July 2024
 :::
 :::
