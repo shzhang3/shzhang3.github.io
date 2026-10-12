@@ -103,6 +103,17 @@ Boeing Research Award, 2025
 2026
 :::
 ::: {.pub-body}
+**[Low-rank evolutionary deep neural networks via adaptive tangent-space reduction](https://arxiv.org/abs/2509.16395)**
+
+Jiahao Zhang, **Shiheng Zhang**, and Guang Lin · Computer Methods in Applied Mechanics and Engineering · Accepted
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
+2026
+:::
+::: {.pub-body}
 **[Ordinal geometry complements reconstruction: diagnosing planning with compressed value functions](https://openreview.net/forum?id=QbTBLTxehl)**
 
 **Shiheng Zhang** · Advances in Neural Information Processing Systems (NeurIPS 2026)
@@ -260,16 +271,6 @@ Jiahao Zhang<sup>&#42;</sup>, **Shiheng Zhang**<sup>&#42;</sup>, Jie Shen, and G
 :::
 :::
 
-::: {.publication-item}
-::: {.pub-year}
-2025
-:::
-::: {.pub-body}
-**[Low-rank adaptation of evolutionary deep neural networks for efficient learning of time-dependent PDEs](https://arxiv.org/abs/2509.16395)**
-
-Jiahao Zhang, **Shiheng Zhang**, and Guang Lin · arXiv preprint · Submitted
-:::
-:::
 :::
 :::
 :::
