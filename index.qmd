@@ -116,7 +116,7 @@ Jiahao Zhang, **Shiheng Zhang**, and Guang Lin · Computer Methods in Applied Me
 ::: {.pub-body}
 **[Ordinal geometry complements reconstruction: diagnosing planning with compressed value functions](https://openreview.net/forum?id=QbTBLTxehl)**
 
-**Shiheng Zhang** · Advances in Neural Information Processing Systems (NeurIPS 2026)
+**Shiheng Zhang** · Advances in Neural Information Processing Systems (NeurIPS 2026) · [Code](https://github.com/shzhang3/ordinal-geometry-planning)
 :::
 :::
 
@@ -290,9 +290,19 @@ Jiahao Zhang<sup>&#42;</sup>, **Shiheng Zhang**<sup>&#42;</sup>, Jie Shen, and G
 
 ::: {.section-shell}
 ::: {.content-shell}
-<p class="section-intro">Open implementations and reproducible experiments accompanying my work in dynamical low-rank approximation, kinetic equations, and structure-preserving optimization.</p>
+<p class="section-intro">Open implementations and reproducible experiments accompanying my work in dynamical low-rank approximation, kinetic equations, structure-preserving optimization, and model evaluation.</p>
 
 ::: {.software-grid}
+::: {.software-item}
+### Ordinal Geometry
+
+Python tools for comparing value-function reconstruction, local action rankings, and planning outcomes, with research code, experiment summaries, and a CPU demo.
+
+::: {.software-links}
+[GitHub](https://github.com/shzhang3/ordinal-geometry-planning) · [Paper](https://github.com/shzhang3/ordinal-geometry-planning/blob/main/paper/paper_v2.pdf)
+:::
+:::
+
 ::: {.software-item}
 ### DLRA
 

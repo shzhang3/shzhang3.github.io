@@ -37,6 +37,8 @@
     \printfield{booktitle}%
     \addspace
     \mkbibparens{\printfield{eventtitle}\addnbspace\printfield{year}}}}%
+  \newunit\newblock
+  \printfield{addendum}%
   \usebibmacro{finentry}%
 }
 
@@ -159,7 +161,10 @@ Numerical analysis and scientific computing. Dynamical low-rank approximation an
 \newpage
 \pdfbookmark[1]{Research Software}{software}
 \section*{Research Software}
+\begingroup
+\setlength{\parskip}{0.25em}
 \input{software.tex}
+\endgroup
 
 \pdfbookmark[1]{Teaching}{teaching}
 \section*{Teaching}
