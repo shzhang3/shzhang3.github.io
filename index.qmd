@@ -100,12 +100,12 @@ Boeing Research Award, 2025
 ::: {.publication-list}
 ::: {.publication-item}
 ::: {.pub-year}
-2026
+2027
 :::
 ::: {.pub-body}
-**[Low-rank evolutionary deep neural networks via adaptive tangent-space reduction](https://arxiv.org/abs/2509.16395)**
+**[Low-rank evolutionary deep neural networks via adaptive tangent-space reduction](https://www.sciencedirect.com/science/article/abs/pii/S0045782526007772)**
 
-Jiahao Zhang, **Shiheng Zhang**, and Guang Lin · Computer Methods in Applied Mechanics and Engineering · Accepted
+Jiahao Zhang, **Shiheng Zhang**, and Guang Lin · Computer Methods in Applied Mechanics and Engineering
 :::
 :::
 
