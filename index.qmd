@@ -30,7 +30,7 @@ title: "Shiheng Zhang"
 ::: {.detail-grid}
 ::: {.detail-item}
 **Email**  
-[shzhang3@uw.edu](mailto:shzhang3@uw.edu)
+[shihengzhang26@gmail.com](mailto:shihengzhang26@gmail.com)
 :::
 
 ::: {.detail-item}
@@ -406,7 +406,7 @@ A PyTorch implementation of the relaxed vector auxiliary variable optimizer, wit
 I welcome conversations about numerical PDEs, scientific computing, low-rank approximation, and structure-preserving methods.
 
 ::: {.contact-links}
-[Email](mailto:shzhang3@uw.edu){.action-button .action-primary}
+[Email](mailto:shihengzhang26@gmail.com){.action-button .action-primary}
 [UW Profile](https://amath.washington.edu/people/shiheng-zhang){.action-button .action-secondary}
 [GitHub](https://github.com/shzhang3){.action-button .action-secondary}
 [LinkedIn](https://www.linkedin.com/in/shihengzhang/){.action-button .action-secondary}
