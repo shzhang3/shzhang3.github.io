@@ -223,7 +223,7 @@ Jiahao Zhang<sup>&#42;</sup>, **Shiheng Zhang**<sup>&#42;</sup>, Jie Shen, and G
 ::: {.pub-body}
 **[Robust high-order projector-splitting integrators](https://arxiv.org/abs/2608.17157)**
 
-**Shiheng Zhang** and Jingwei Hu · arXiv preprint
+**Shiheng Zhang** and Jingwei Hu · arXiv preprint · Submitted
 :::
 :::
 
