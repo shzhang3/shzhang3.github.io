@@ -212,7 +212,7 @@ Jiahao Zhang<sup>&#42;</sup>, **Shiheng Zhang**<sup>&#42;</sup>, Jie Shen, and G
 ::: {.pub-body}
 **[A reduced-order model for the high-field Vlasov--Poisson--Fokker--Planck system based on a micro--macro decomposition](https://arxiv.org/abs/2610.25569)**
 
-**Shiheng Zhang** and Jingwei Hu · arXiv preprint
+**Shiheng Zhang** and Jingwei Hu · arXiv preprint · Submitted
 :::
 :::
 
