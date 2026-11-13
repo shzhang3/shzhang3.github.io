@@ -210,6 +210,17 @@ Jiahao Zhang<sup>&#42;</sup>, **Shiheng Zhang**<sup>&#42;</sup>, Jie Shen, and G
 2026
 :::
 ::: {.pub-body}
+**[Robust high-order BUG integrators without basis augmentation](https://arxiv.org/abs/2611.15175)**
+
+**Shiheng Zhang** · arXiv preprint
+:::
+:::
+
+::: {.publication-item}
+::: {.pub-year}
+2026
+:::
+::: {.pub-body}
 **[A reduced-order model for the high-field Vlasov--Poisson--Fokker--Planck system based on a micro--macro decomposition](https://arxiv.org/abs/2610.25569)**
 
 **Shiheng Zhang** and Jingwei Hu · arXiv preprint · Submitted
