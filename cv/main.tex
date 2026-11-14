@@ -10,6 +10,18 @@
 ]{biblatex}
 \addbibresource{ref.bib}
 
+% Journal chronology and preprint series use separate editorial orders.
+\DeclareSortingTemplate{cv-journal}{
+  \sort[direction=descending]{\field{year}}
+  \sort{\field{sortkey}}
+  \sort{\field{sorttitle}\field{title}}
+}
+\DeclareSortingTemplate{cv-preprint}{
+  \sort{\field{sortkey}}
+  \sort[direction=descending]{\field{year}}
+  \sort{\field{sorttitle}\field{title}}
+}
+
 % Match the full name so coauthors with the same surname stay unbolded.
 \renewcommand*{\mkbibcompletename}[1]{%
   \ifboolexpr{
@@ -128,19 +140,9 @@ Numerical analysis and scientific computing. Dynamical low-rank approximation an
 
 \nocite{*}
 
-\pdfbookmark[2]{Conference Papers}{conference-papers}
-\subsection*{Conference Papers}
-\newrefcontext[labelprefix=C]
-\printbibliography[
-  type=inproceedings,
-  heading=none,
-  resetnumbers=true,
-  keyword=C
-]
-
 \pdfbookmark[2]{Journal Articles}{journal-articles}
 \subsection*{Journal Articles}
-\newrefcontext[labelprefix=J]
+\newrefcontext[sorting=cv-journal,labelprefix=J]
 \printbibliography[
   type=article,
   heading=none,
@@ -148,9 +150,19 @@ Numerical analysis and scientific computing. Dynamical low-rank approximation an
   keyword=J
 ]
 
+\pdfbookmark[2]{Conference Papers}{conference-papers}
+\subsection*{Conference Papers}
+\newrefcontext[sorting=ydnt,labelprefix=C]
+\printbibliography[
+  type=inproceedings,
+  heading=none,
+  resetnumbers=true,
+  keyword=C
+]
+
 \pdfbookmark[2]{Preprints}{preprints}
 \subsection*{Preprints}
-\newrefcontext[labelprefix=R]
+\newrefcontext[sorting=cv-preprint,labelprefix=R]
 \printbibliography[
   type=online,
   heading=none,
@@ -176,7 +188,7 @@ Numerical analysis and scientific computing. Dynamical low-rank approximation an
 
 \pdfbookmark[2]{Talks}{talks}
 \subsection*{Talks}
-\newrefcontext[labelprefix=T]
+\newrefcontext[sorting=ydnt,labelprefix=T]
 \printbibliography[
   type=misc,
   heading=none,
@@ -186,7 +198,7 @@ Numerical analysis and scientific computing. Dynamical low-rank approximation an
 
 \pdfbookmark[2]{Posters}{posters}
 \subsection*{Posters}
-\newrefcontext[labelprefix=P]
+\newrefcontext[sorting=ydnt,labelprefix=P]
 \printbibliography[
   type=unpublished,
   heading=none,
