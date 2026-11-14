@@ -254,28 +254,6 @@ Jiahao Zhang<sup>&#42;</sup>, **Shiheng Zhang**<sup>&#42;</sup>, Jie Shen, and G
 2026
 :::
 ::: {.pub-body}
-**[Guidance breaks the fitted operator: a terminal-fitted repair for classifier-free guidance](https://arxiv.org/abs/2607.07665)**
-
-**Shiheng Zhang** · arXiv preprint · Submitted
-:::
-:::
-
-::: {.publication-item}
-::: {.pub-year}
-2026
-:::
-::: {.pub-body}
-**[Asymptotic preservation and uniform accuracy of diffusion and flow-matching samplers](https://arxiv.org/abs/2607.04113)**
-
-**Shiheng Zhang** · arXiv preprint
-:::
-:::
-
-::: {.publication-item}
-::: {.pub-year}
-2026
-:::
-::: {.pub-body}
 **[SAV schemes with decomposition-induced pullback corrections for gradient flows](https://arxiv.org/abs/2606.18551)**
 
 **Shiheng Zhang** and Jie Shen · arXiv preprint · Submitted
